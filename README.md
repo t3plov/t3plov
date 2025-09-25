@@ -1,3 +1,6 @@
+<h1 align="center">Hi 💜, I'm Andrey</h1>
+<h3 align="center">I'm a beginner Python-developer from Russia & want to be a ML-engineer</h3>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
