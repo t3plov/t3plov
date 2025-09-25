@@ -6,6 +6,9 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   </a>
+  <a href="https://docs.aiogram.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/aiogram-3776AB?style=for-the-badge&logo=telegram&logoColor=white" alt="aiogram"/>
+</a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
   </a>
@@ -29,8 +32,5 @@
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter"/>
   </a>
 </p>
